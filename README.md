@@ -1,2 +1,2 @@
 # Bruh
-Deploys container that reproduces a cool video.
+Deploys container that reproduces a cool video ;)
