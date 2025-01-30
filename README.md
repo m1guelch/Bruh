@@ -1,2 +1,2 @@
 # Bruh
-Deploys a container that reproduces the SpongeBob disgusted sound XD
+This deploys a container that reproduces the SpongeBob disgusted sound effect XD
